@@ -1,0 +1,12 @@
+informacion_personal:
+  nombre: "Carlos Estudiante"
+  edad: 20
+  universidad: "Universidad Tecnológica"
+
+materias:
+  - Base de Datos
+  - Programación
+  - Diseño Web
+
+tema_oscuro: true
+brillo: 85
